@@ -1,0 +1,11 @@
+{
+  "mqtt_host": "127.0.0.1",
+  "mqtt_port": 1884,
+  "mqtt_topic": "ptit/B23DCAT074/sensors",
+  "mongo_uri": "mongodb://127.0.0.1:27018",
+  "database": "iot_lab2",
+  "retention_days": 7,
+  "dashboard_port": 8502,
+  "sample_interval_s": 5,
+  "resample_s": 10
+}
